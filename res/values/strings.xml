@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Netduino Bluetooth</string>
+    <string name="LedOn">Turn the LED On</string>
+    <string name="LedOff">Turn the LED Off</string>
+
+</resources>
